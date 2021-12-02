@@ -1,0 +1,107 @@
+{
+  "configVersion": 1,
+  "timestamp": 1638418896346,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/305.75fc96a4a79fd02147b6.js",
+        "/favicon.ico",
+        "/firebase-messaging-sw.js",
+        "/index.html",
+        "/main.b88ffdf891d35a821a7d.js",
+        "/manifest.webmanifest",
+        "/polyfills.de5930106077535d321c.js",
+        "/runtime.864fc1ce54b9b0b7b77c.js",
+        "/scripts.11bb4788de4eef98f066.js",
+        "/styles.427f3ea1950b956d7c06.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Bg-02-min.d1272d881f1cf41ae714.jpg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/Bg-02-min.jpg",
+        "/assets/images/download-min.png",
+        "/assets/images/favicon.png",
+        "/assets/images/icon.png",
+        "/assets/images/prime_logo-min.png",
+        "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "/fontawesome-webfont.f691f37e57f04c152e23.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/305.75fc96a4a79fd02147b6.js": "5cacda20b99fd1222855339e4abcbf857733d2b7",
+    "/Bg-02-min.d1272d881f1cf41ae714.jpg": "c0251df3ff1aa1db9c6acfc029a7a07ef33a0d81",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/Bg-02-min.jpg": "c0251df3ff1aa1db9c6acfc029a7a07ef33a0d81",
+    "/assets/images/download-min.png": "a937ec38e0f69a8d19e682f9620e7e1053fe552d",
+    "/assets/images/favicon.png": "07f1245863444f895d8df3a3110c07dccd3f65c8",
+    "/assets/images/icon.png": "0f1853d15af69b77e0255b3fc92bb11aed9acd03",
+    "/assets/images/prime_logo-min.png": "b55dd06f9457c1d03b4d5ffbbe3128de53b3c0b8",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/firebase-messaging-sw.js": "03569d256f525b5cd626a52e8c58e94b04406bca",
+    "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/index.html": "498b36cfee29bc57df899fda9eb0e4f641aaf162",
+    "/main.b88ffdf891d35a821a7d.js": "34e50102d1684430bb9f373ccb2188a84c526627",
+    "/manifest.webmanifest": "53b648278f0574da5493d95569f91fd2f0914b24",
+    "/polyfills.de5930106077535d321c.js": "0e6463cf9156499daa564d2f8893de3fe3d2d8f1",
+    "/runtime.864fc1ce54b9b0b7b77c.js": "fae1f0c68d9b8ff1fbe758ef202876d38945960d",
+    "/scripts.11bb4788de4eef98f066.js": "3e3cab33431a36a8056935e5040bee6fd485dfee",
+    "/styles.427f3ea1950b956d7c06.css": "7b84e686393ed951f1667f411c7515a13a770529"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
